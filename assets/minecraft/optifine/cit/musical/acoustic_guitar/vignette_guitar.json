@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "musical/black_guitar",
-		"particle": "musical/lack_guitar"
+		"0": "musical/acoustic_guitar/vignette_guitar",
+		"particle": "musical/acoustic_guitar/vignette_guitar"
 	},
 	"elements": [
 		{
